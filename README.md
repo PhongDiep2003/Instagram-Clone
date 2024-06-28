@@ -1,4 +1,4 @@
-# Youtube Clone
+# Instagram Clone
 
 ## Introduction
 Cloned some of the essential features of Instagram
