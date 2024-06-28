@@ -1,8 +1,37 @@
-# React + Vite
+# Youtube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+Cloned some of the essential features of Instagram
+  * Sign in/up
+  * Post feed
+  * View feed
+  * Follow/Unfollow user
+  * Like/Unlike Post
+  * Post comment
+  * Chat with friends
+  * Edit profile (change username, password, upload new image)
 
-Currently, two official plugins are available:
+## Project Demo
+![Alt text](pictures/ig_clone1.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Alt text](pictures/ig_clone2.png?raw=true)
+
+![Alt text](pictures/ig_clone3.png?raw=true)
+
+![Alt text](pictures/ig_clone4.png?raw=true)
+
+![Alt text](pictures/ig_clone5.png?raw=true)
+
+![Alt text](pictures/ig_clone6.png?raw=true)
+
+![Alt text](pictures/ig_clone7.png?raw=true)
+
+![Alt text](pictures/ig_clone8.png?raw=true)
+
+![Alt text](pictures/ig_clone9.png?raw=true)
+
+
+## Technologies used
+- **Web Client:** JavaScript, HTML, CSS, React, Chakra UI
+- **Backend + Storage:** Firebase, JavaScript
+- **State Management Libraries:** Zustand
